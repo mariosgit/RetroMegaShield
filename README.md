@@ -6,7 +6,7 @@ A piece of PCB to run this stuff.. http://baltazarstudios.com/arduino-zilog-z80/
 
 in progress...
 
-## todo
+## Todo
 
 * Clk from a PWM pin (one of the high timers) can be set to generate 4MHz and lower.
 * 64k RAM chip with cap to  keep the contents - enable stand alone.
